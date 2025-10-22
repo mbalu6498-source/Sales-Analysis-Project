@@ -20,8 +20,9 @@ Contents: Includes product name, quantity sold, price, date of sale,and more.
 🛠️ Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
-Jupyter Notebook (for interactive analysis)
-(Add others like Power BI, Tableau, Excel if used)
+EDA done on googgle colab 
+Excel for basic analysis 
+build interactive dashboard using power bi
 
 📈 Key Insights
 
@@ -30,7 +31,7 @@ Sales peak during [March]
 
 coffee-sales-analysis/
 │
-├── data/               # Raw and cleaned datasets
+├── data/               # Raw datasets
 ├── notebooks/          # Jupyter notebooks with analysis
 ├── dashboard/            # Graphs and charts
 ├── README.md           # Project overview
